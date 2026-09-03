@@ -1,5 +1,5 @@
-mov rcx, 10 -> (rcx = 10)
-mov rax, 01 -> (rax = 1)
+mov rcx, 10 ;-> (rcx = 10)
+mov rax, 01 ;-> (rax = 1)
 
 
 loop_inicio:
