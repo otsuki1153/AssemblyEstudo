@@ -4,7 +4,7 @@ extern GetStdHandle
 extern WriteFile
 extern ExitProcess
 section .data
-    message db "Hello, assembly!", 13, 10
+    message db "Hello, Henrique!", 13, 10
     message_len equ $ - message
 
 section .text
